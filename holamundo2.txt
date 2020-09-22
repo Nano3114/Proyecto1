@@ -1,5 +1,9 @@
 public class Prueba1 {
 	public static void main(String args[]){
+<<<<<<< HEAD
 		System.out.println("HELLO TIERRA");
+=======
+		System.out.println("HELLO MARTE");
+>>>>>>> d4638f1e40993c21f93e2e092fa29db5a1d2b414
 	}
 }
